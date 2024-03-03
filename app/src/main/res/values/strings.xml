@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="firstname">firstname</string>
+    <string name="lastname">lastname</string>
+    <string name="login">LOGIN</string>
+    <string name="ListTours">Beer Tour Screen</string>
+    <string name="Details">Detail Screen</string>
+    <string name="Favourite">Favourite Tours</string>
+    <string name="register">Registration</string>
+    <string name="Registration">Registration Screen</string>
+    <string name="back_button">Back</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="logout_button">Logout</string>
+</resources>
